@@ -1,0 +1,17 @@
+.greeting {
+  font-size: 4rem;
+  color: white;
+}
+
+.name {
+  color: deepskyblue;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.popularMovies {
+  font-size: 2rem;
+  color: white;
+}

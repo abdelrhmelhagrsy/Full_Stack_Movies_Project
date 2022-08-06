@@ -1,0 +1,32 @@
+.searchBar {
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem;
+  width: 30rem;
+  margin: 3rem 0rem;
+  border: solid;
+  border-width: 0.2rem;
+  background-color: gold;
+}
+
+
+
+.searchButton {
+  color: white;
+  background-color: green;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem;
+  margin-left: 0.5rem;
+  border-width: 0.2rem;
+}
+
+.searchButton:hover {
+  background-color: chartreuse;
+  
+}
+
+.search
+{
+  background-color: darkgray;
+}

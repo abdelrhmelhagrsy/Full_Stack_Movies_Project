@@ -1,0 +1,79 @@
+.moviePage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color:black;
+  width: 100%;
+}
+
+.moviePagePoster {
+  margin-left: 6rem;
+  margin-bottom: 2rem;
+}
+
+.movieDetails {
+  display: flex;
+  flex-direction: column;
+  height: 1rem;
+  width: 100%;
+  margin: 0px 2rem;
+ 
+}
+
+.otherDetails {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  
+}
+
+.title {
+  font-size: 5rem;
+  margin: 0px;
+  text-align: left;
+  color: green;
+  
+}
+
+.releaseDate,
+.popularity,
+.revenue {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+  color: red;
+}
+
+.description {
+  font-size: 2rem;
+  text-align: left;
+ 
+}
+
+.dollar,
+.popular,
+.calendar {
+  height: 2rem;
+}
+
+.popular,
+.calendar {
+  margin-right: 0.3rem;
+}
+
+.name {
+  color: deepskyblue;
+  font-size: 4rem;
+  text-decoration: none;
+  
+}
+
+.link {
+  text-decoration: none;
+}
+.oh
+{
+  text-align: left;
+  color: red;
+}

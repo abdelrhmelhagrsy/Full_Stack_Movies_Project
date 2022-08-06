@@ -1,0 +1,10 @@
+.error {
+  font-size: 5rem;
+  color: deepskyblue;
+}
+
+.home {
+  font-size: 2rem;
+  color: deepskyblue;
+  text-decoration: underline;
+}

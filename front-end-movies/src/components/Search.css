@@ -1,0 +1,15 @@
+.name {
+  color: deepskyblue;
+  font-size: 4rem;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.searchResults {
+  font-size: 4rem;
+  color: white;
+  margin-top: 0px;
+}
